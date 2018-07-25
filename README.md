@@ -6,4 +6,4 @@ Un exercice pour s'entraîner aux bases de données par @Pauline.
 Dans votre console, lancez les instructions suivantes :
 `bundle install`
 `rails db:migrate`
-`rails db:seeds`
+`rails db:seed`
